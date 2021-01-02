@@ -1,6 +1,6 @@
 # leetcode
 
-***首日题目***：1480 Running Sum of 1d Array
+***NEXT***：1672	Richest Customer Wealth
 
 ## 刷题顺序
 
@@ -27,5 +27,6 @@
 
 **Array**
 
-- [ ] 1480 Running Sum of 1d Array
+- [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
+- [ ] 1672	Richest Customer Wealth
