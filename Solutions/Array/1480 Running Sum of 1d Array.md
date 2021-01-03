@@ -20,7 +20,7 @@ $$
 ```javascript
 var runningSum = function(nums) {
   let temp = 0
-  let result = []
+  const result = []
   for (const n of nums) {
     temp += n
     result.push(temp)

@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1476 Subrectangle Queries
+***NEXT***：1470 Shuffle the Array
 
 ## 刷题顺序
 
@@ -30,4 +30,7 @@
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
 - [x] [1672	Richest Customer Wealth](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1672%20Richest%20Customer%20Wealth.md)
-- [ ] 1476 Subrectangle Queries 
+
+- [x] [1431 Kids With the Greatest Number of Candies]() 
+
+- [ ] 1470 Shuffle the Array
