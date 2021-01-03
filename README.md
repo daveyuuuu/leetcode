@@ -31,6 +31,6 @@
 
 - [x] [1672	Richest Customer Wealth](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1672%20Richest%20Customer%20Wealth.md)
 
-- [x] [1431 Kids With the Greatest Number of Candies]() 
+- [x] [1431 Kids With the Greatest Number of Candies](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) 
 
 - [ ] 1470 Shuffle the Array
