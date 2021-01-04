@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1470 Shuffle the Array
+***NEXT***：1512 Number of Good Pairs
 
 ## 刷题顺序
 
@@ -33,4 +33,6 @@
 
 - [x] [1431 Kids With the Greatest Number of Candies](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) 
 
-- [ ] 1470 Shuffle the Array
+- [x] [1470 Shuffle the Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1470%20Shuffle%20the%20Array.md)
+
+- [ ] 1512 Number of Good Pairs
