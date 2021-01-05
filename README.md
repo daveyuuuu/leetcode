@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1512 Number of Good Pairs
+***NEXT***：1365 How Many Numbers Are Smaller Than the Current Number
 
 ## 刷题顺序
 
@@ -35,4 +35,6 @@
 
 - [x] [1470 Shuffle the Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1470%20Shuffle%20the%20Array.md)
 
-- [ ] 1512 Number of Good Pairs
+- [x] [1512 Number of Good Pairs](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1512%20Number%20of%20Good%20Pairs.md)
+
+- [ ] 1365 How Many Numbers Are Smaller Than the Current Number
