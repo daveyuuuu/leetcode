@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1365 How Many Numbers Are Smaller Than the Current Number
+***NEXT***：1486 XOR Operation in an Array
 
 ## 刷题顺序
 
@@ -37,4 +37,6 @@
 
 - [x] [1512 Number of Good Pairs](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1512%20Number%20of%20Good%20Pairs.md)
 
-- [ ] 1365 How Many Numbers Are Smaller Than the Current Number
+- [x] [1365 How Many Numbers Are Smaller Than the Current Number](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md)
+
+- [ ] [1486 XOR Operation in an Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1486%20XOR%20Operation%20in%20an%20Array.md)
