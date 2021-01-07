@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1588 Sum of All Odd Length Subarrays
+***NEXT***：1395 Count Number of Teams
 
 ## 刷题顺序
 
@@ -29,7 +29,7 @@
 
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
-- [x] [1672	Richest Customer Wealth](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1672%20Richest%20Customer%20Wealth.md)
+- [x] [1672 Richest Customer Wealth](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1672%20Richest%20Customer%20Wealth.md)
 
 - [x] [1431 Kids With the Greatest Number of Candies](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) 
 
@@ -41,4 +41,6 @@
 
 - [x] [1486 XOR Operation in an Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1486%20XOR%20Operation%20in%20an%20Array.md)
 
-- [ ] 1588 Sum of All Odd Length Subarrays
+- [x] [1588 Sum of All Odd Length Subarrays](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)
+
+- [ ] 1395 Count Number of Teams
