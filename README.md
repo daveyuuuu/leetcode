@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1295 Find Numbers with Even Number of Digits
+***NEXT***：1266 Minimum Time Visiting All Points
 
 ## 刷题顺序
 
@@ -45,4 +45,6 @@
 
 - [x] [1395 Count Number of Teams](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1395%20Count%20Number%20of%20Teams.md)
 
-- [ ] 1295 Find Numbers with Even Number of Digits
+- [x] [1295 Find Numbers with Even Number of Digits](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)
+
+- [ ] 1266 Minimum Time Visiting All Points
