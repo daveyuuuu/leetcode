@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1395 Count Number of Teams
+***NEXT***：1295 Find Numbers with Even Number of Digits
 
 ## 刷题顺序
 
@@ -43,4 +43,6 @@
 
 - [x] [1588 Sum of All Odd Length Subarrays](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)
 
-- [ ] 1395 Count Number of Teams
+- [x] [1395 Count Number of Teams](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1395%20Count%20Number%20of%20Teams.md)
+
+- [ ] 1295 Find Numbers with Even Number of Digits
