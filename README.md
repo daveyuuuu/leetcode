@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1266 Minimum Time Visiting All Points
+***NEXT***：1329 Sort the Matrix Diagonally
 
 ## 刷题顺序
 
@@ -47,4 +47,6 @@
 
 - [x] [1295 Find Numbers with Even Number of Digits](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)
 
-- [ ] 1266 Minimum Time Visiting All Points
+- [x] [1266 Minimum Time Visiting All Points](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1266%20Minimum%20Time%20Visiting%20All%20Points.md)
+
+- [ ] 1329 Sort the Matrix Diagonally
