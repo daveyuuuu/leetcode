@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1329 Sort the Matrix Diagonally
+***NEXT***：1572 Matrix Diagonal Sum
 
 ## 刷题顺序
 
@@ -25,7 +25,7 @@
 
 ## 刷题记录
 
-**Array**
+**Array(12/20)**
 
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
@@ -49,4 +49,6 @@
 
 - [x] [1266 Minimum Time Visiting All Points](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1266%20Minimum%20Time%20Visiting%20All%20Points.md)
 
-- [ ] 1329 Sort the Matrix Diagonally
+- [x] [1329 Sort the Matrix Diagonally](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1329%20Sort%20the%20Matrix%20Diagonally.md)
+
+- [ ] 1572 Matrix Diagonal Sum
