@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1572 Matrix Diagonal Sum
+***NEXT***：832 Flipping an Image
 
 ## 刷题顺序
 
@@ -25,7 +25,7 @@
 
 ## 刷题记录
 
-**Array(12/20)**
+**Array (13/20)**
 
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
@@ -51,4 +51,6 @@
 
 - [x] [1329 Sort the Matrix Diagonally](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1329%20Sort%20the%20Matrix%20Diagonally.md)
 
-- [ ] 1572 Matrix Diagonal Sum
+- [x] [1572 Matrix Diagonal Sum](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1572%20Matrix%20Diagonal%20Sum.md)
+
+- [ ] 832 Flipping an Image
