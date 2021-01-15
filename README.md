@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1464 Maximum Product of Two Elements in an Array
+***NEXT***：1304 Find N Unique Integers Sum up to Zero
 
 ## 刷题顺序
 
@@ -25,7 +25,7 @@
 
 ## 刷题记录
 
-**Array (15/20)**
+**Array (16/20)**
 
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
@@ -57,4 +57,6 @@
 
 - [x] [1450 Number of Students Doing Homework at a Given Time](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1450%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.md)
 
-- [ ] 1464 Maximum Product of Two Elements in an Array
+- [x] [1464 Maximum Product of Two Elements in an Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1464%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.md)
+
+- [ ] 1304 Find N Unique Integers Sum up to Zero
