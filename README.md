@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1351 Count Negative Numbers in a Sorted Matrix
+***NEXT***：950 Reveal Cards In Increasing Order
 
 ## 刷题顺序
 
@@ -25,7 +25,7 @@
 
 ## 刷题记录
 
-**Array (17/20)**
+**Array (18/20)**
 
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
@@ -62,3 +62,5 @@
 - [x] [1304 Find N Unique Integers Sum up to Zero](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.md)
 
 - [x] [1351 Count Negative Numbers in a Sorted Matrix](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1351%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)
+
+- [ ] 950 Reveal Cards In Increasing Order
