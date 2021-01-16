@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1304 Find N Unique Integers Sum up to Zero
+***NEXT***：1351 Count Negative Numbers in a Sorted Matrix
 
 ## 刷题顺序
 
@@ -25,7 +25,7 @@
 
 ## 刷题记录
 
-**Array (16/20)**
+**Array (17/20)**
 
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
@@ -59,4 +59,6 @@
 
 - [x] [1464 Maximum Product of Two Elements in an Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1464%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.md)
 
-- [ ] 1304 Find N Unique Integers Sum up to Zero
+- [x] [1304 Find N Unique Integers Sum up to Zero](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.md)
+
+- [ ] 1351 Count Negative Numbers in a Sorted Matrix
