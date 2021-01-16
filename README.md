@@ -61,4 +61,4 @@
 
 - [x] [1304 Find N Unique Integers Sum up to Zero](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.md)
 
-- [ ] 1351 Count Negative Numbers in a Sorted Matrix
+- [x] [1351 Count Negative Numbers in a Sorted Matrix](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1351%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)
