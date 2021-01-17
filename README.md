@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：950 Reveal Cards In Increasing Order
+***NEXT***：905 Sort Array By Parity
 
 ## 刷题顺序
 
@@ -25,7 +25,7 @@
 
 ## 刷题记录
 
-**Array (18/20)**
+**Array (19/20)**
 
 - [x] [1480 Running Sum of 1d Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1480%20Running%20Sum%20of%201d%20Array.md)
 
@@ -63,4 +63,6 @@
 
 - [x] [1351 Count Negative Numbers in a Sorted Matrix](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/1351%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)
 
-- [ ] 950 Reveal Cards In Increasing Order
+- [x] [950 Reveal Cards In Increasing Order](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/950%20Reveal%20Cards%20In%20Increasing%20Order.md)
+
+- [ ] 905 Sort Array By Parity
