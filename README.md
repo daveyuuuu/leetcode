@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：771 Jewels and Stones
+***NEXT***：1261 Find Elements in a Contaminated Binary Tree
 
 ## 刷题顺序
 
@@ -67,6 +67,9 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (0/20)
+### Hash Table (1/20)
 
-- [ ] 771 Jewels and Stones
+- [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
+
+- [ ] 1261 Find Elements in a Contaminated Binary Tree
+
