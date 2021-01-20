@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1261 Find Elements in a Contaminated Binary Tree
+***NEXT***：961 N-Repeated Element in Size 2N Array
 
 ## 刷题顺序
 
@@ -67,9 +67,11 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (1/20)
+### Hash Table (2/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
-- [ ] 1261 Find Elements in a Contaminated Binary Tree
+- [x] [1261 Find Elements in a Contaminated Binary Tree](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1261%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md)
+
+- [ ] 961 N-Repeated Element in Size 2N Array
 
