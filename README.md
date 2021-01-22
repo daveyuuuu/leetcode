@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1207 Unique Number of Occurrences
+***NEXT***：1002 Find Common Characters
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (3/20)
+### Hash Table (4/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -75,5 +75,7 @@
 
 - [x] [961 N-Repeated Element in Size 2N Array](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/961%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
 
-- [ ] 1207 Unique Number of Occurrences
+- [x] [1207 Unique Number of Occurrences](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1207%20Unique%20Number%20of%20Occurrences.md)
+
+- [ ] 1002 Find Common Characters
 
