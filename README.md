@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1002 Find Common Characters
+***NEXT***：1160 Find Words That Can Be Formed by Characters
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (4/20)
+### Hash Table (5/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -77,5 +77,7 @@
 
 - [x] [1207 Unique Number of Occurrences](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1207%20Unique%20Number%20of%20Occurrences.md)
 
-- [ ] 1002 Find Common Characters
+- [x] [1002 Find Common Characters](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1002%20Find%20Common%20Characters.md)
+
+- [ ] 1160 Find Words That Can Be Formed by Characters
 
