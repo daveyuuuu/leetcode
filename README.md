@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：136 Single Number
+***NEXT***：94 Binary Tree Inorder Traversal
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (7/20)
+### Hash Table (8/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -83,5 +83,7 @@
 
 - [x] [463 Island Perimeter](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/463%20Island%20Perimeter.md)
 
-- [ ] 136 Single Number
+- [x] [136 Single Number](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/136%20Single%20Number.md)
+
+- [ ] 94 Binary Tree Inorder Traversal
 
