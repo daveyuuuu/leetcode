@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：705 Design HashSet
+***NEXT***：739 Daily Temperatures
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (9/20)
+### Hash Table (10/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -87,5 +87,6 @@
 
 - [x] [94 Binary Tree Inorder Traversal](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/94%20Binary%20Tree%20Inorder%20Traversal.md)
 
-- [ ] 705 Design HashSet
+- [x] [705 Design HashSet](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/705%20Design%20HashSet.md)
 
+- [ ] 739 Daily Temperatures
