@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：884 Uncommon Words from Two Sentences
+***NEXT***：706 Design HashMap
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (12/20)
+### Hash Table (13/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -93,4 +93,6 @@
 
 - [x] [451 Sort Characters By Frequency](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/451%20Sort%20Characters%20By%20Frequency.md)
 
-- [ ] 884 Uncommon Words from Two Sentences
+- [x] [884 Uncommon Words from Two Sentences](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/884%20Uncommon%20Words%20from%20Two%20Sentences.md)
+
+- [ ] 706 Design HashMap
