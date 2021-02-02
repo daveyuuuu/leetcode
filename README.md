@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：706 Design HashMap
+***NEXT***：347 Top K Frequent Elements
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (13/20)
+### Hash Table (14/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -95,4 +95,6 @@
 
 - [x] [884 Uncommon Words from Two Sentences](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/884%20Uncommon%20Words%20from%20Two%20Sentences.md)
 
-- [ ] 706 Design HashMap
+- [x] [706 Design HashMap](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/706%20Design%20HashMap.md)
+
+- [ ] 347 Top K Frequent Elements
