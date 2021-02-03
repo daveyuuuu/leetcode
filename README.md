@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：347 Top K Frequent Elements
+***NEXT***：895 Maximum Frequency Stack
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (14/20)
+### Hash Table (15/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -97,4 +97,6 @@
 
 - [x] [706 Design HashMap](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/706%20Design%20HashMap.md)
 
-- [ ] 347 Top K Frequent Elements
+- [x] [347 Top K Frequent Elements](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/347%20Top%20K%20Frequent%20Elements.md)
+
+- [ ] 895 Maximum Frequency Stack
