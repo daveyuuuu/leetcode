@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1189 Maximum Number of Balloons
+***NEXT***：1290 Convert Binary Number in a Linked List to Integer
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (16/20)
+### Hash Table (20/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -101,4 +101,14 @@
 
 - [x] [895 Maximum Frequency Stack](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/895%20Maximum%20Frequency%20Stack.md)
 
-- [ ] 1189 Maximum Number of Balloons
+- [x] [1189 Maximum Number of Balloons](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1189%20Maximum%20Number%20of%20Balloons.md)
+
+- [x] [1072 Flip Columns For Maximum Number of Equal Rows](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1072%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows)
+
+- [x] [1640 Check Array Formation Through Concatenation](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1640%20Check%20Array%20Formation%20Through%20Concatenation)
+
+- [x] [49 Group Anagrams](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/49%20Group%20Anagrams)
+
+
+### Linked List(0/20)
+- [ ] 1290 Convert Binary Number in a Linked List to Integer
