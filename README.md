@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：895 Maximum Frequency Stack
+***NEXT***：1189 Maximum Number of Balloons
 
 ## 刷题顺序
 
@@ -67,7 +67,7 @@
 
 - [x] [905 Sort Array By Parity](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Array/905%20Sort%20Array%20By%20Parity.md)
 
-### Hash Table (15/20)
+### Hash Table (16/20)
 
 - [x] [771 Jewels and Stones](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/771%20Jewels%20and%20Stones.md)
 
@@ -99,4 +99,6 @@
 
 - [x] [347 Top K Frequent Elements](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/347%20Top%20K%20Frequent%20Elements.md)
 
-- [ ] 895 Maximum Frequency Stack
+- [x] [895 Maximum Frequency Stack](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/895%20Maximum%20Frequency%20Stack.md)
+
+- [ ] 1189 Maximum Number of Balloons
