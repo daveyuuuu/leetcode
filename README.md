@@ -103,11 +103,11 @@
 
 - [x] [1189 Maximum Number of Balloons](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1189%20Maximum%20Number%20of%20Balloons.md)
 
-- [x] [1072 Flip Columns For Maximum Number of Equal Rows](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1072%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows)
+- [x] [1072 Flip Columns For Maximum Number of Equal Rows](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1072%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.md)
 
-- [x] [1640 Check Array Formation Through Concatenation](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1640%20Check%20Array%20Formation%20Through%20Concatenation)
+- [x] [1640 Check Array Formation Through Concatenation](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/1640%20Check%20Array%20Formation%20Through%20Concatenation.md)
 
-- [x] [49 Group Anagrams](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/49%20Group%20Anagrams)
+- [x] [49 Group Anagrams](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/49%20Group%20Anagrams.md)
 
 
 ### Linked List(0/20)
