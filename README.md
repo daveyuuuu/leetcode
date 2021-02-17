@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：1290 Convert Binary Number in a Linked List to Integer
+***NEXT***：1669 Merge In Between Linked Lists
 
 ## 刷题顺序
 
@@ -110,5 +110,7 @@
 - [x] [49 Group Anagrams](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/49%20Group%20Anagrams.md)
 
 
-### Linked List(0/20)
-- [ ] 1290 Convert Binary Number in a Linked List to Integer
+### Linked List(1/20)
+- [x] [1290 Convert Binary Number in a Linked List to Integer](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Linked%20List/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
+
+- [ ] 1669 Merge In Between Linked Lists
