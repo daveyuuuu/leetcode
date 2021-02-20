@@ -1,6 +1,6 @@
 # leetcode
 
-***NEXT***：876 Middle of the Linked List
+***NEXT***：206 Reverse Linked List
 
 ## 刷题顺序
 
@@ -110,9 +110,10 @@
 - [x] [49 Group Anagrams](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Hash%20Table/49%20Group%20Anagrams.md)
 
 
-### Linked List(2/20)
+### Linked List(3/20)
 - [x] [1290 Convert Binary Number in a Linked List to Integer](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Linked%20List/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
 
 - [x] [1669 Merge In Between Linked Lists](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Linked%20List/1669%20Merge%20In%20Between%20Linked%20Lists.md)
 
-- [ ] 876 Middle of the Linked List
+- [x] [876 Middle of the Linked List](https://github.com/daveyuuuu/leetcode/blob/master/Solutions/Linked%20List/876%20Middle%20of%20the%20Linked%20List.md)
+- [ ] 206 Reverse Linked List
